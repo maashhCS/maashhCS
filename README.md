@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Philipp / @maashhCS
 - 👀 I’m interested in Football⚽, CSGO/Esports and Fireworks🧨.
-- 🌱 I’m currently learning C# .Net as an apprentice.
+- 🌱 I’m currently learning C# .NET as an apprentice.
 - 📫 How to reach me [Twitter](https://twitter.com/maashhCS) or add me on [Steam](https://steamcommunity.com/id/maashh/) (comment before you add).
